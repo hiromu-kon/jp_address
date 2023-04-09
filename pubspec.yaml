@@ -1,0 +1,17 @@
+name: jp_prefecture_city
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://github.com/hiromu-kon/jp_prefecture_city
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+  flutter: '>=2.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
