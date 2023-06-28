@@ -1,7 +1,7 @@
-name: jp_prefecture_city
+name: jp_address
 description: A new Flutter package project.
 version: 0.0.1
-homepage: https://github.com/hiromu-kon/jp_prefecture_city
+homepage: https://github.com/hiromu-kon/jp_address
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
