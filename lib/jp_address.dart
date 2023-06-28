@@ -1,4 +1,4 @@
 library jp_address;
 
-export 'src/city.dart';
-export 'src/prefecture.dart';
+export 'src/jp_city.dart';
+export 'src/jp_prefecture.dart';
